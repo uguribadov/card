@@ -1,9 +1,5 @@
 # Kod Haqqında Sənəd
 
-Bu sənəd Azərbaycan dilində hazırlanmış Markdown (`.md`) faylıdır.
-
-Buraya nümunə kod parçaları, izahlar və digər bölmələr əlavə oluna bilər.
-
 ## HTML Kodu
 
 ```html
