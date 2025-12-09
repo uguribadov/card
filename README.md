@@ -54,18 +54,21 @@
     color: white;
     font-size: 14px;
     margin-top: 5px;
+    font-family: monospace;
     padding-left: 5px;
 }
 #valid-thru{
     color: white;
     font-size: 12px;
     padding-left: 5px;
+    font-family: tahoma;
 }
 #vt07{
     color: white;
     font-size: 10px;
     margin-top: 20px;
     padding-left: 5px;
+    font-family: tahoma;
 }
 ```
 
